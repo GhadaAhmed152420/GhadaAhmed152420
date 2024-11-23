@@ -50,14 +50,6 @@ I am a motivated **Junior Flutter Developer** with a strong foundation in mobile
 - **Tech Stack:** Flutter, AI, Firebase  
 - **Achievement:** Achieved A+ grade for project execution and accuracy in detection.  
 
-### Movies App  
-- **Description:** A movie info app displaying ratings, summaries, and cast details.  
-- **Tech Stack:** Flutter, IMDb API  
-
-### To-Do App  
-- **Description:** A task management app for creating, editing, and organizing daily tasks.  
-- **Tech Stack:** Flutter, SQLite, Bloc  
-
 ---
 
 ## 📈 GitHub Stats  
