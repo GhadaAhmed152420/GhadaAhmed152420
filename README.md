@@ -31,7 +31,7 @@ I am a motivated **Junior Flutter Developer** with a strong foundation in mobile
 *February 2024 – May 2024*  
 - Developed mobile app interfaces using FlutterFlow and enhanced skills in UI/UX design and database integration.  
 
-### Flutter Developer (Intern) | Career Project  
+### Flutter Developer | Career Project  
 *May 2023 – September 2023*  
 - Built a marketplace app connecting skilled craftsmen with clients.  
 - Leveraged GetX for state management and Firebase/Firestore for backend functionality.  
