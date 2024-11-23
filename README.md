@@ -1,67 +1,88 @@
-# 👋 Welcome to My GitHub Profile!
+# 👋 Hello, I'm Ghada Ahmed  
 
-## About Me
-Hi, I'm **Ghada Ahmed**, an enthusiastic **Flutter Developer** from Sadat City, Menoufia, Egypt. I am passionate about creating high-quality, user-friendly mobile applications that solve real-world problems. My journey in tech started with a solid foundation in Computer Science, and I continue to grow through hands-on projects and learning opportunities.
-
-📍 **Location**: Sadat City, Menoufia, Egypt  
-📧 **Email**: [ga2513092@gmail.com](mailto:ga2513092@gmail.com)  
-🔗 **LinkedIn**: [Ghada Ahmed](https://www.linkedin.com/in/ghada-ahmed-81b340195/)  
-🔗 **GitHub**: [GhadaAhmed152420](https://github.com/GhadaAhmed152420)
+### 🌟 Junior Flutter Developer | 🎨 Aspiring UI/UX Specialist | 📱 Mobile App Enthusiast  
 
 ---
 
-## 🌟 Objective
-As an aspiring Flutter Developer, I am seeking opportunities to contribute to dynamic teams, learn from experienced professionals, and build impactful mobile applications.
+## About Me  
+
+I am a motivated **Junior Flutter Developer** with a strong foundation in mobile app development and a passion for crafting user-friendly applications. With hands-on experience in building and optimizing mobile apps, I am eager to contribute to dynamic teams, grow as a developer, and create impactful applications.  
 
 ---
 
-## 🔧 Technical Skills
-- **Programming & Frameworks**: Flutter, Dart, State Management (Provider, BloC, GetX, Riverpod)
-- **Tools & Platforms**: Firebase, SQL, RESTful APIs, JSON, Git, Flutter Test, Gradle
-- **UI/UX**: Responsive Design, UI/UX Principles, Debugging, Testing (Unit, Widget)
+## 🛠 Skills & Technologies  
+
+- **Languages & Frameworks:** Flutter, Dart  
+- **State Management:** Provider, BloC, GetX  
+- **Backend Integration:** Firebase, RESTful APIs, SQLite  
+- **Tools:** FlutterFlow, Git, Gradle  
+- **UI/UX:** Responsive Design, Prototyping, Debugging, Testing (Unit, Widget)  
+- **Soft Skills:** Problem-Solving, Teamwork, Communication, Adaptability  
 
 ---
 
-## 💼 Experience
-- **Instructor | BareeQ Academy (Jun 2024 - Present)**  
-  Teaching programming to children and mentoring them with engaging lessons.
-  
-- **Trainee | Gensystem (Feb 2024 - May 2024)**  
-  Hands-on experience with FlutterFlow, focusing on UI/UX design and database integration.
-  
-- **Flutter Developer | Career (May 2023 - Sep 2023)**  
-  Built a marketplace app connecting craftsmen with clients using Flutter, GetX, and Firebase/Firestore.
+## 💼 Professional Experience  
+
+### Instructor | BareeQ Academy  
+*June 2024 – Present*  
+- Delivered engaging programming lessons to children, fostering curiosity and foundational coding skills.  
+
+### Trainee | Gensystem  
+*February 2024 – May 2024*  
+- Developed mobile app interfaces using FlutterFlow and enhanced skills in UI/UX design and database integration.  
+
+### Flutter Developer (Intern) | Career Project  
+*May 2023 – September 2023*  
+- Built a marketplace app connecting skilled craftsmen with clients.  
+- Leveraged GetX for state management and Firebase/Firestore for backend functionality.  
 
 ---
 
-## 📚 Education
-**Bachelor's Degree in Computer Science**  
-Faculty of Computers and Information, Menoufia University (2018 - 2022)  
-- Relevant Courses: Mobile Development (Flutter), Data Structures, OOP, Computer Networks  
-- **Graduation Project**: *7yah* - A lung cancer detection app using Flutter, AI, and Firebase.  
+## 📚 Featured Projects  
+
+### Career Marketplace App  
+- **Description:** A mobile app connecting craftsmen with clients needing various services.  
+- **Tech Stack:** Flutter, GetX, Firebase/Firestore  
+- **Key Features:** User profiles, service listings, and booking management.  
+
+### 7yah – Lung Cancer Detection (Graduation Project)  
+- **Description:** A mobile app utilizing AI to detect lung cancer from X-ray images.  
+- **Tech Stack:** Flutter, AI, Firebase  
+- **Achievement:** Achieved A+ grade for project execution and accuracy in detection.  
+
+### Movies App  
+- **Description:** A movie info app displaying ratings, summaries, and cast details.  
+- **Tech Stack:** Flutter, IMDb API  
+
+### To-Do App  
+- **Description:** A task management app for creating, editing, and organizing daily tasks.  
+- **Tech Stack:** Flutter, SQLite, Bloc  
 
 ---
 
-## 🛠️ Projects
-- **Career App**: Marketplace connecting craftsmen with clients. Features include user profiles, service listings, and booking management. [Play Store Link](#)  
-- **7yah**: Lung cancer detection app using image processing and machine learning.  
-- **Movies App**: Provides movie details using IMDb API.  
-- **Shop App**: E-commerce app with authentication, product catalog, and payment.  
-- **News App**: News aggregator for sports, science, and business using News API.  
-- **To-Do App**: Task manager built with SQLite and Bloc.
+## 📈 GitHub Stats  
+
+![Ghada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=radical)  
 
 ---
 
-## 🧰 Soft Skills
-- Problem-solving | Teamwork | Communication | Time Management  
-- Adaptability | Attention to Detail | Learning Agility  
+## 🌱 Currently Learning  
+
+- Advanced Flutter Techniques  
+- Clean Code Practices  
+- Test-Driven Development  
 
 ---
 
-## 🌱 Currently Working On
-- Expanding expertise in Flutter and mobile development.  
-- Creating engaging projects to enhance my portfolio.
+## 📬 Connect With Me  
+
+- **Email:** [ga2513092@gmail.com](mailto:ga2513092@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/ghada-ahmed-81b340195](https://www.linkedin.com/in/ghada-ahmed-81b340195)  
+- **GitHub:** [github.com/GhadaAhmed152420](https://github.com/GhadaAhmed152420)  
 
 ---
 
-Let's collaborate and build something amazing! 🎯
+## ⚡ Fun Fact  
+
+I love transforming ideas into real applications that people enjoy using every day!  
