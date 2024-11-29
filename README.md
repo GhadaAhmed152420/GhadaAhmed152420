@@ -1,80 +1,47 @@
-# 👋 Hello, I'm Ghada Ahmed  
+# Hi, I'm Ghada Ahmed! 👋
 
-### 🌟 Junior Flutter Developer | 🎨 Aspiring UI/UX Specialist | 📱 Mobile App Enthusiast  
+🚀 **Flutter Developer | Problem-Solver | Tech Enthusiast**
 
----
-
-## About Me  
-
-I am a motivated **Junior Flutter Developer** with a strong foundation in mobile app development and a passion for crafting user-friendly applications. With hands-on experience in building and optimizing mobile apps, I am eager to contribute to dynamic teams, grow as a developer, and create impactful applications.  
+I’m passionate about creating innovative and user-friendly mobile applications using Flutter and Dart. My experience includes designing scalable solutions, building intuitive interfaces, and crafting applications that make a real impact.
 
 ---
 
-## 🛠 Skills & Technologies  
-
-- **Languages & Frameworks:** Flutter, Dart  
-- **State Management:** Provider, BloC, GetX  
-- **Backend Integration:** Firebase, RESTful APIs, SQLite  
-- **Tools:** FlutterFlow, Git, Gradle  
-- **UI/UX:** Responsive Design, Prototyping, Debugging, Testing (Unit, Widget)  
-- **Soft Skills:** Problem-Solving, Teamwork, Communication, Adaptability  
+## 🌟 **About Me**
+- 🎓 **Education**: Bachelor's in Computer Science, Menoufia University (Graduation Project: A+)
+- 💻 **Skills**: Flutter, Dart, Firebase, FlutterFlow, GetX, BloC, Clean Architecture
+- 🔧 **Specialties**: UI/UX design, state management, backend integration, and responsive development
+- 🛠️ **Tools**: Git, Unit Testing, Debugging
 
 ---
 
-## 💼 Professional Experience  
-
-### Instructor | BareeQ Academy  
-*June 2024 – Present*  
-- Delivered engaging programming lessons to children, fostering curiosity and foundational coding skills.  
-
-### Trainee | Gensystem  
-*February 2024 – May 2024*  
-- Developed mobile app interfaces using FlutterFlow and enhanced skills in UI/UX design and database integration.  
-
-### Flutter Developer | Career Project  
-*May 2023 – September 2023*  
-- Built a marketplace app connecting skilled craftsmen with clients.  
-- Leveraged GetX for state management and Firebase/Firestore for backend functionality.  
+## 💼 **Work Experience**
+- **Instructor**, BareeQ Academy  
+  Delivered programming lessons to inspire 20+ children, encouraging creativity and problem-solving.
+  
+- **Trainee**, Gensystem  
+  Enhanced application designs with FlutterFlow and contributed to rapid development, reducing design time by 25%.
+  
+- **Trainee**, Career  
+  Developed a marketplace app connecting 500+ users, boosting engagement by 30% with intuitive interfaces.
 
 ---
 
-## 📚 Featured Projects  
-
-### Career Marketplace App  
-- **Description:** A mobile app connecting craftsmen with clients needing various services.  
-- **Tech Stack:** Flutter, GetX, Firebase/Firestore  
-- **Key Features:** User profiles, service listings, and booking management.  
-
-### 7yah – Lung Cancer Detection (Graduation Project)  
-- **Description:** A mobile app utilizing AI to detect lung cancer from X-ray images.  
-- **Tech Stack:** Flutter, AI, Firebase  
-- **Achievement:** Achieved A+ grade for project execution and accuracy in detection.  
+## 🌟 **Projects**
+- **Career App**: A marketplace app with 500+ downloads on Google Play, connecting craftsmen and clients.  
+- **7yah App**: An AI-powered lung cancer detection app achieving 85% accuracy using advanced machine learning.
 
 ---
 
-## 📈 GitHub Stats  
-
-![Ghada's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=radical)  
+## 🌱 **What I'm Learning**
+I’m constantly exploring advanced Flutter frameworks, clean architecture principles, and AI integrations to expand my skills.
 
 ---
 
-## 🌱 Currently Learning  
-
-- Advanced Flutter Techniques  
-- Clean Code Practices  
-- Test-Driven Development  
-
----
-
-## 📬 Connect With Me  
-
-- **Email:** [ga2513092@gmail.com](mailto:ga2513092@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/ghada-ahmed-81b340195](https://www.linkedin.com/in/ghada-ahmed-81b340195)  
-- **GitHub:** [github.com/GhadaAhmed152420](https://github.com/GhadaAhmed152420)  
+## 📫 **Let’s Connect**
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghada-ahmed-81b340195)  
+- 📂 [GitHub](https://github.com/GhadaAhmed152420)  
+- 📧 Email: ga2513092@gmail.com  
 
 ---
 
-## ⚡ Fun Fact  
-
-I love transforming ideas into real applications that people enjoy using every day!  
+💡 "I believe in the power of technology to solve problems and create opportunities. Let’s collaborate to build something amazing!"
