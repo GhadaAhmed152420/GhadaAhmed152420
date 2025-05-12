@@ -21,7 +21,7 @@ I’m passionate about creating innovative, user-friendly mobile applications us
   *May 2025 – Present · Shebin El Kom, Al Minufiyah, Egypt · Hybrid*
 
 - **Instructor**, **BareeQ Academy**  
-  Delivered programming lessons to inspire 20+ children, encouraging creativity and problem-solving.  
+  Taught children computer basics and programming skills, and participated in the "Digital Cubs of Egypt" initiative.  
   *Jun 2024 – Nov 2024 · El Sadat City, Al Minufiyah, Egypt · On-site*
 
 - **FlutterFlow Trainee**, **Gensystem**  
