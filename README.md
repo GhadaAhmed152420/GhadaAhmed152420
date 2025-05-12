@@ -2,7 +2,7 @@
 
 🚀 **Flutter Developer | Problem-Solver | Tech Enthusiast**  
 
-I’m passionate about creating innovative and user-friendly mobile applications using Flutter and Dart. My experience includes designing scalable solutions, building intuitive interfaces, and crafting applications that make a real impact.  
+I’m passionate about creating innovative, user-friendly mobile applications using Flutter and Dart. My experience includes designing scalable solutions, building intuitive interfaces, and crafting applications that make a real impact.  
 
 ---  
 
@@ -14,15 +14,23 @@ I’m passionate about creating innovative and user-friendly mobile applications
 
 ---  
 
-## 💼 **Work Experience**  
-- **Instructor**, BareeQ Academy  
+## 💼 **Work Experience**
+
+- **Flutter Trainee**, **PureSoft**  
+  Working on real-world Flutter projects in a hybrid internship. Gaining hands-on experience in mobile app development and enhancing UI/UX design skills.  
+  *May 2025 – Present · Shebin El Kom, Al Minufiyah, Egypt · Hybrid*
+
+- **Instructor**, **BareeQ Academy**  
   Delivered programming lessons to inspire 20+ children, encouraging creativity and problem-solving.  
-  
-- **Trainee**, Gensystem  
-  Enhanced application designs with FlutterFlow and contributed to rapid development, reducing design time by 25%.  
-  
-- **Trainee**, Career  
-  Developed a marketplace app connecting 500+ users, boosting engagement by 30% with intuitive interfaces.  
+  *Jun 2024 – Nov 2024 · El Sadat City, Al Minufiyah, Egypt · On-site*
+
+- **FlutterFlow Trainee**, **Gensystem**  
+  Enhanced app designs using FlutterFlow and worked on low-code solutions to speed up development cycles.  
+  *Feb 2024 – Apr 2024 · Remote*
+
+- **Flutter Trainee**, **Career**  
+  Developed a marketplace mobile app from scratch, utilizing clean architecture, GetX, and Firebase integration.  
+  *May 2023 – Oct 2023 · Remote*
 
 ---  
 
