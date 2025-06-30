@@ -2,7 +2,7 @@
 
 🚀 **Flutter Developer | Problem-Solver | Tech Enthusiast**  
 
-I’m passionate about creating innovative, user-friendly mobile applications using Flutter and Dart. My experience includes designing scalable solutions, building intuitive interfaces, and crafting applications that make a real impact.  
+I’m passionate about creating innovative, user-friendly mobile applications using Flutter and Dart. My experience includes designing scalable solutions, building intuitive interfaces, and developing applications that have a tangible impact.  
 
 ---  
 
@@ -15,10 +15,6 @@ I’m passionate about creating innovative, user-friendly mobile applications us
 ---  
 
 ## 💼 **Work Experience**
-
-- **Flutter Trainee**, **PureSoft**  
-  Working on real-world Flutter projects in a hybrid internship. Gaining hands-on experience in mobile app development and enhancing UI/UX design skills.  
-  *May 2025 – Present · Shebin El Kom, Al Minufiyah, Egypt · Hybrid*
 
 - **Instructor**, **BareeQ Academy**  
   Taught children computer basics and programming skills, and participated in the "Digital Cubs of Egypt" initiative.  
@@ -41,7 +37,7 @@ I’m passionate about creating innovative, user-friendly mobile applications us
 ---  
 
 ## 🌱 **What I'm Learning**  
-I’m constantly exploring advanced Flutter frameworks, clean architecture principles, and AI integrations to expand my skills.  
+I continually explore advanced Flutter frameworks, clean architecture principles, and AI integrations to expand my skills.  
 
 ---  
 
