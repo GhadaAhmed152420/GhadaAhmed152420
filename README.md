@@ -23,7 +23,7 @@ I build functional and user-friendly mobile applications with Flutter, teach pro
 
 - **Instructor**, **BareeQ Academy**  
   Teach children computer basics and programming, and previously contributed to the "Digital Cubs of Egypt" initiative.  
-  *Jul 2024 – Present · El Sadat City, Al Minufiyah, Egypt · On-site*  
+  *Jul 2024 – Dec 2024 · El Sadat City, Al Minufiyah, Egypt · On-site*  
 
 - **FlutterFlow Trainee**, **Gensystem**  
   Designed and implemented app interfaces using FlutterFlow, connecting them with backend services to deliver functional prototypes.  
