@@ -22,7 +22,7 @@ I build functional and user-friendly mobile applications with Flutter, teach pro
   *Jul 2025 – Present · El Sadat City, Al Minufiyah, Egypt · On-site*  
 
 - **Instructor**, **BareeQ Academy**  
-  Teach children computer basics and programming, and previously contributed to the "Digital Cubs of Egypt" initiative.  
+  Taught children computer basics and programming, and contributed to the "Digital Cubs of Egypt" initiative.  
   *Jul 2024 – Dec 2024 · El Sadat City, Al Minufiyah, Egypt · On-site*  
 
 - **FlutterFlow Trainee**, **Gensystem**  
