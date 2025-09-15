@@ -1,6 +1,6 @@
 # Hi, I'm Ghada Ahmed! 👋  
 
-🚀 **Flutter Developer | Problem-Solver | Programming & AI Instructor**  
+🚀 **FlutterFlow & Automation Developer | Tech Instructor**  
 
 I build functional and user-friendly mobile applications with Flutter, teach programming and AI, and tackle coding challenges to sharpen my skills. My work focuses on blending clean code, scalable architecture, and great user experience.  
 
