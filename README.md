@@ -72,8 +72,15 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 
 ---
 
-## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/ghada-ahmed-81b340195)  
-[GitHub](https://github.com/GhadaAhmed152420)  
-[LeetCode](https://leetcode.com/u/Ghada_A/)  
-Email: ga2513092@gmail.com
+## GitHub Stats
+![Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=radical)  
+
+---
+
+## Connect With Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghada-ahmed-81b340195)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/GhadaAhmed152420)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ghada_A/)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ga2513092@gmail.com)  
