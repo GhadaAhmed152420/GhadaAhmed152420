@@ -36,26 +36,32 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
-### Élan Hotel  
-<img src="assets/elan_hotel.png" width="400" style="border-radius:8px;"/><br>  
-**UI:** FlutterFlow | **Backend:** n8n  
-[▶ Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutterflow-flutterdeveloper-appdevelopment-activity-7369716813418446852-yTuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo)
+<table>
+<tr>
+<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
+<b>Élan Hotel</b><br>
+<img src="assets/elan_hotel.png"><br>
+<small>UI: FlutterFlow<br>Backend: n8n</small><br>
+<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutterflow-flutterdeveloper-appdevelopment-activity-7369716813418446852-yTuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
+</td>
 
----
+<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
+<b>Career App</b><br>
+<img src="assets/career_app.png"><br>
+<small>Flutter + GetX + Firebase</small><br>
+<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-getx-firebase-activity-7340075190480945253-p-DG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
+</td>
 
-### Career App  
-<img src="assets/career_app.png" width="400" style="border-radius:8px;"/><br>  
-**Tech Stack:** Flutter + GetX + Firebase  
-[▶ Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-getx-firebase-activity-7340075190480945253-p-DG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo)
-
----
-
-### 7yah App  
-<img src="assets/7yah_app.png" width="400" style="border-radius:8px;"/><br>  
-**Role:** Flutter front-end + AI backend (Flask API)  
-[▶ Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-deeplearning-machinelearning-activity-6958068763002908673-teYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo)
+<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
+<b>7yah App</b><br>
+<img src="assets/7yah_app.png"><br>
+<small>Flutter front-end + AI backend</small><br>
+<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-deeplearning-machinelearning-activity-6958068763002908673-teYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
+</td>
+</tr>
+</table>
 
 ---
 
