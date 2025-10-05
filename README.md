@@ -55,7 +55,7 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 </td>
 
 <td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
-<b>7yah App</b><br><br>
+<b>7yah App</b><br>
 <img src="assets/7yah_app.png" width="200"><br>
 <small>Flutter + Bloc + Flask</small><br>
 <a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-deeplearning-machinelearning-activity-6958068763002908673-teYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
