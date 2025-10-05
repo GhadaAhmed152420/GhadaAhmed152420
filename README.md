@@ -2,7 +2,7 @@
 
 **Software Engineer | Flutter & Automation Developer | Tech Instructor**  
 
-I build **scalable mobile applications** using **Flutter & FlutterFlow**. I combine both skills to deliver complete, end-to-end digital products.  
+I build **scalable mobile applications** using **Flutter & FlutterFlow**, and integrate them with backend services and APIs. I enjoy turning complex ideas into functional, user-friendly apps and workflows.  
 
 ---
 
@@ -11,11 +11,11 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**. I comb
 - **Core Skills:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-02569B?style=flat) 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
 ![GetX](https://img.shields.io/badge/GetX-000000?style=flat) 
 ![BloC](https://img.shields.io/badge/BloC-02569B?style=flat) 
-![n8n](https://img.shields.io/badge/n8n-000000?style=flat&logo=n8n&logoColor=white)  
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6B2CBF?style=flat&logo=flutterflow&logoColor=white) 
+![n8n](https://img.shields.io/badge/n8n-FF4D4D?style=flat&logo=n8n&logoColor=white)  
 - **Specialties:** UI/UX Design, State Management, Responsive Development  
 - **Tools:** Git, Debugging, Unit Testing  
 
@@ -38,26 +38,30 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**. I comb
 
 ## Featured Projects
 
-### Élan Hotel
-Hotel room services app (UI: FlutterFlow, Backend: n8n). Real-time staff notifications & automated workflows.  
-**Tech:** FlutterFlow, n8n  
-[Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutterflow-flutterdeveloper-appdevelopment-activity-7369716813418446852-yTuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo)  
+<table>
+<tr>
+<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
+<b>Élan Hotel</b><br>
+<img src="assets/elan_hotel.png" width="200"><br>
+<small>UI: FlutterFlow<br>Backend: n8n</small><br>
+<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutterflow-flutterdeveloper-appdevelopment-activity-7369716813418446852-yTuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
+</td>
 
----
+<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
+<b>Career App</b><br>
+<img src="assets/career_app.png" width="200"><br>
+<small>Flutter + GetX + Firebase</small><br>
+<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-getx-firebase-activity-7340075190480945253-p-DG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
+</td>
 
-### Career App
-![Career App](https://drive.google.com/uc?export=view&id=1YdjUMBnPW_Y8TKtoU5InOxKjbFRq2Q0i)  
-Marketplace connecting craftsmen & clients. Full UI & business logic built with Flutter + Firebase.  
-**Tech:** Flutter, GetX, Firebase  
-[Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-getx-firebase-activity-7340075190480945253-p-DG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo)  
-
----
-
-### 7yah App
-![7yah App](https://drive.google.com/uc?export=view&id=1V6XJQw3Ga0C0n0MoLOoCtVDB7P-PGjjh)  
-AI-powered lung cancer detection app (85% accuracy). I developed the **Flutter front-end**, which sends images to the **team-provided AI backend (Flask/Python)** and displays the results.  
-**Tech:** Flutter, Python, Flask, AI  
-[Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-deeplearning-machinelearning-activity-6958068763002908673-teYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo)  
+<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px;">
+<b>7yah App</b><br>
+<img src="assets/7yah_app.png" width="200"><br>
+<small>Flutter front-end + AI backend</small><br>
+<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-deeplearning-machinelearning-activity-6958068763002908673-teYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
+</td>
+</tr>
+</table>
 
 ---
 
