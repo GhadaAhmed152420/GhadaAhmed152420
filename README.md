@@ -36,44 +36,9 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 
 ---
 
-## Featured Projects
+## Featured Projects  
 
-<table>
-<tr>
-<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px; width:270px;">
-<b>Élan Hotel</b><br>
-<img src="assets/elan_hotel.png" width="250" height="150" style="object-fit:cover; border-radius:8px;"/><br>
-<small>UI: FlutterFlow<br>Backend: n8n</small><br>
-<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutterflow-flutterdeveloper-appdevelopment-activity-7369716813418446852-yTuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
-</td>
-
-<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px; width:270px;">
-<b>Career App</b><br>
-<img src="assets/career_app.png" width="250" height="150" style="object-fit:cover; border-radius:8px;"/><br>
-<small>Flutter + GetX + Firebase</small><br>
-<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-getx-firebase-activity-7340075190480945253-p-DG?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
-</td>
-
-<td align="center" bgcolor="#f0f0f0" style="padding:15px; border-radius:10px; width:270px;">
-<b>7yah App</b><br>
-<img src="assets/7yah_app.png" width="250" height="150" style="object-fit:cover; border-radius:8px;"/><br>
-<small>Flutter front-end + AI backend</small><br>
-<a href="https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutter-deeplearning-machinelearning-activity-6958068763002908673-teYL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7QVqoXShmga7JYle2gUVo">Watch Demo</a>
-</td>
-</tr>
-</table>
-
----
-
-## Currently Learning
-- Advanced Flutter architecture & performance optimization  
-- API-driven automation with n8n  
-- AI-powered integrations in mobile apps  
-
----
-
-## Connect With Me
-[LinkedIn](https://www.linkedin.com/in/ghada-ahmed-81b340195)  
-[GitHub](https://github.com/GhadaAhmed152420)  
-[LeetCode](https://leetcode.com/u/Ghada_A/)  
-Email: ga2513092@gmail.com
+### Élan Hotel  
+<img src="assets/elan_hotel.png" width="400" style="border-radius:8px;"/><br>  
+**UI:** FlutterFlow | **Backend:** n8n  
+[▶ Watch Demo](https://www.linkedin.com/posts/ghada-ahmed-81b340195_flutterflow-flutterdeveloper-appdevelopment-activity-7369716813418446852-yTuS?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC3KPJcBSsDGBx7)
