@@ -2,12 +2,12 @@
 
 **Software Engineer | Flutter Developer | Tech Instructor**  
 
-I build **scalable mobile applications** using **Flutter & FlutterFlow**, and integrate them with backend services and APIs. I enjoy turning complex ideas into functional, user-friendly apps and workflows.  
+I build **scalable mobile applications** using **Flutter & FlutterFlow**, and integrate them with backend services and APIs. I focus on turning complex ideas into functional, user-friendly apps and automated workflows that deliver seamless digital experiences.  
 
 ---
 
 ## About Me
-- **Education**: B.Sc. in Computer Science – Menoufia University *(Graduation Project: A+)*  
+- **Education**: B.Sc. in Computer Science – Menoufia University *(Graduation Project: A+ — Lung Cancer Detection App using Flutter & AI)*  
 - **Core Skills:**  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 
@@ -23,13 +23,13 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 
 ## Experience
 - **Instructor – UpgradeX Academy** *(Jul 2025 – Present · El Sadat City, Egypt)*  
-  Teaching computer skills, programming, and AI for children & adults.  
+  Teaching computer skills, programming, and AI for children and adults.  
 
 - **Instructor – BareeQ Academy** *(Jul 2024 – Dec 2024 · El Sadat City, Egypt)*  
-  Taught computer basics & programming for kids; contributed to **Digital Cubs of Egypt** initiative.  
+  Taught computer basics and programming for kids; contributed to the **Digital Cubs of Egypt** initiative.  
 
 - **FlutterFlow Trainee – Gensystem** *(Feb 2024 – Apr 2024 · Remote)*  
-  Designed & implemented app interfaces in FlutterFlow, integrated with Firebase & Supabase.  
+  Designed and implemented app interfaces in FlutterFlow, integrated with Firebase and Supabase.  
 
 - **Flutter Trainee – Career** *(May 2023 – Oct 2023 · Remote)*  
   Developed a marketplace app using Flutter + GetX + Firebase (later unpublished from Google Play).  
@@ -66,9 +66,9 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 ---
 
 ## Currently Learning
-- Advanced Flutter architecture & performance optimization  
+- Advanced Flutter architecture and performance optimization  
 - API-driven automation with n8n  
-- AI-powered integrations in mobile apps  
+- Integrating AI-powered features into mobile applications  
 
 ---
 
