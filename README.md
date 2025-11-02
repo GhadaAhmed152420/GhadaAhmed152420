@@ -1,6 +1,6 @@
 # Hi, I'm Ghada Ahmed  
 
-**Software Engineer | Flutter Developer | Tech Instructor**  
+**Software Engineer | Flutter Developer**  
 
 I build **scalable mobile applications** using **Flutter & FlutterFlow**, and integrate them with backend services and APIs. I focus on turning complex ideas into functional, user-friendly apps and automated workflows that deliver seamless digital experiences.  
 
@@ -22,12 +22,6 @@ I build **scalable mobile applications** using **Flutter & FlutterFlow**, and in
 ---
 
 ## Experience
-- **Instructor – UpgradeX Academy** *(Jul 2025 – Present · El Sadat City, Egypt)*  
-  Teaching computer skills, programming, and AI for children and adults.  
-
-- **Instructor – BareeQ Academy** *(Jul 2024 – Dec 2024 · El Sadat City, Egypt)*  
-  Taught computer basics and programming for kids; contributed to the **Digital Cubs of Egypt** initiative.  
-
 - **FlutterFlow Trainee – Gensystem** *(Feb 2024 – Apr 2024 · Remote)*  
   Designed and implemented app interfaces in FlutterFlow, integrated with Firebase and Supabase.  
 
