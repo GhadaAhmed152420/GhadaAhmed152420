@@ -23,10 +23,10 @@ My focus is on creating clean, maintainable apps that make complex ideas feel si
 ---
 
 ## Experience
-- **FlutterFlow Trainee – Gensystem** *(Feb 2024 – Apr 2024 · Remote)*  
+- **FlutterFlow Intern – Gensystem** *(Feb 2024 – Apr 2024 · Remote)*  
   Designed and implemented app interfaces in FlutterFlow, integrated with Firebase and Supabase.  
 
-- **Flutter Trainee – Career** *(May 2023 – Oct 2023 · Remote)*  
+- **Flutter Intern – Career** *(May 2023 – Oct 2023 · Remote)*  
   Developed a marketplace app using Flutter + GetX + Firebase (later unpublished from Google Play).  
 
 ---
