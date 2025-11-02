@@ -2,7 +2,7 @@
 
 **Mobile Software Engineer | Flutter Developer**
 
-I build scalable and user-friendly mobile applications using Flutter and FlutterFlow, integrating them with backend services and APIs.  
+I build scalable and user-friendly mobile applications using **Flutter** and **FlutterFlow**, integrating them with backend services and APIs.  
 My focus is on creating clean, maintainable apps that make complex ideas feel simple.  
 
 ---
