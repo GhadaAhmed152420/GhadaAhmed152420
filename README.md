@@ -1,8 +1,9 @@
 # Hi, I'm Ghada Ahmed  
 
-**Software Engineer | Flutter Developer**  
+**Mobile Software Engineer | Flutter Developer**
 
-I build **scalable mobile applications** using **Flutter & FlutterFlow**, and integrate them with backend services and APIs. I focus on turning complex ideas into functional, user-friendly apps and automated workflows that deliver seamless digital experiences.  
+I build scalable and user-friendly mobile applications using Flutter and FlutterFlow, integrating them with backend services and APIs.  
+My focus is on creating clean, maintainable apps that make complex ideas feel simple.  
 
 ---
 
