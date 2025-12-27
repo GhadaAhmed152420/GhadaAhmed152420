@@ -9,12 +9,12 @@ Focused on app logic, integrations, and automations to deliver practical, scalab
 
 ## About Me
 - **Education**: B.Sc. in Computer Science – Menoufia University *(Graduation Project: A+ — Lung Cancer Detection App using Flutter & AI)*  
-- **Core Skills:**  
+- **Core Skills:**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)   
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) 
+![BloC](https://img.shields.io/badge/BloC-02569B?style=flat)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GetX](https://img.shields.io/badge/GetX-000000?style=flat) 
-![BloC](https://img.shields.io/badge/BloC-02569B?style=flat) 
 ![FlutterFlow](https://img.shields.io/badge/FlutterFlow-6B2CBF?style=flat&logo=flutterflow&logoColor=white) 
 ![n8n](https://img.shields.io/badge/n8n-FF4D4D?style=flat&logo=n8n&logoColor=white)  
 - **Specialties:** UI/UX Design, State Management, Responsive Development  
@@ -68,8 +68,8 @@ Focused on app logic, integrations, and automations to deliver practical, scalab
 ---
 
 ## GitHub Stats
-![Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=github_dark&hide_border=true)
+![Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
