@@ -68,8 +68,14 @@ Focused on app logic, integrations, and automations to deliver practical, scalab
 ---
 
 ## GitHub Stats
-![Ghada's GitHub stats](https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=github_dark&hide_border=true" width="450"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=github_dark&hide_border=true" width="350"/>
+</p>
+
  
 
 ---
