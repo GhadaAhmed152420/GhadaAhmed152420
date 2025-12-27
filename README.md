@@ -10,8 +10,8 @@ Focused on app logic, integrations, and automations to deliver practical, scalab
 ## About Me
 - **Education:** B.Sc. in Computer Science – Menoufia University *(Graduation Project: A+ — Lung Cancer Detection App using Flutter & AI)*  
 - **Core Skills:**
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)   
 ![BloC](https://img.shields.io/badge/BloC-02569B?style=flat)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 ![GetX](https://img.shields.io/badge/GetX-000000?style=flat) 
