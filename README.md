@@ -1,39 +1,41 @@
 # Hi, I'm Ghada Ahmed 👋
-**Software Engineer | Mobile Developer & Automation Enthusiast**
+**Software Engineer | Mobile Solutions & Workflow Automation**
 
-I am a Software Engineer who loves building efficient digital solutions. With a background in Computer Science and extensive experience in Mobile Development, I am currently expanding my expertise into **Workflow Automation (n8n)** to create smarter, more integrated systems.
+[cite_start]I am a Software Engineer [cite: 2] [cite_start]with a focus on building efficient, scalable digital solutions[cite: 4, 8]. [cite_start]With a Bachelor's degree in Computer Science [cite: 23] [cite_start]and hands-on experience in mobile development [cite: 5][cite_start], I bridge the gap between robust app design and smart workflow integrations.
 
 ---
 
 ## 🛠️ Technical Toolkit
-- **Mobile:** Flutter, Dart, FlutterFlow, Bloc, GetX, Firebase, Supabase.
-- **Automation:** n8n, API Integration.
-- **Languages:** Java, C++, Python, SQL.
-- **Engineering:** Clean Architecture, OOP, Git, Problem Solving (ICPC Participant).
+- [cite_start]**Mobile Development:** Flutter, Dart, FlutterFlow, Firebase, Supabase, Android[cite: 6, 16, 36].
+- [cite_start]**Architecture & Logic:** Clean Architecture, OOP, Data Structures & Algorithms[cite: 4, 26, 31, 32].
+- [cite_start]**Automation & Tools:** Workflow automation with n8n, Git, SQL, and API integration[cite: 6, 32, 35].
+- [cite_start]**Problem Solving:** Passionate about logic, with participation in the ICPC competition[cite: 36, 76, 77].
 
 ---
 
 ## 💼 Professional Experience
-* **FlutterFlow Intern – Gensystem**
-* Designed and implemented responsive mobile interfaces using FlutterFlow, integrated with Firebase and Supabase for seamless functionality.
-* **Flutter Intern – Career**
-* Contributed to developing a marketplace application using Flutter, GetX, and Firebase, focusing on state management and performance.
-* **Programming Instructor – BareeQ Academy**
-* Simplified complex coding concepts for children, fostering the next generation of tech talent through hands-on projects.
+
+* [cite_start]**Software Engineer Intern – Gensystem** [cite: 15]
+  [cite_start]Designed and implemented mobile interfaces using FlutterFlow, integrating with Firebase and Supabase for seamless app development[cite: 16].
+* [cite_start]**Flutter Developer Intern – Career** [cite: 18]
+  [cite_start]Contributed to mobile application development using Flutter, GetX, and Firebase to enhance UI functionality and performance[cite: 19, 20].
+* [cite_start]**Programming Instructor – BareeQ Academy** [cite: 11]
+  [cite_start]Taught fundamental coding concepts and digital skills to young learners [cite: 12][cite_start], and participated in the Digital Cubs Initiative[cite: 13].
 
 ---
 
 ## 🚀 Featured Projects
-- **7yah App:** AI-powered Lung Cancer detection app (Graduation Project - Grade: A+).
-- **Élan Hotel:** A smart hotel room services app built with FlutterFlow and automated via n8n.
-- **Career App:** A robust marketplace solution using Flutter and GetX.
+- [cite_start]**7yah App:** Advanced application using Flutter and AI for accurate lung cancer detection (Graduation Project - Grade: A+)[cite: 39, 42].
+- **Élan Hotel:** A smart booking and service management system built with FlutterFlow and integrated with n8n for automation.
+- [cite_start]**Career App:** A marketplace solution developed using Flutter, GetX, and Firebase[cite: 19, 20].
+- [cite_start]**Syantk:** A web application connecting homeowners with maintenance professionals using Vue.js and Node.js[cite: 50, 52].
 
 ---
 
-## 📈 Currently Focusing On
-- Mastering **n8n** for advanced backend automations.
-- Integrating AI features into mobile and web workflows.
-- Writing clean, maintainable code that solves real-world problems.
+## 📈 Current Focus
+- Mastering **n8n** for advanced backend and workflow automations.
+- [cite_start]Building AI-powered mobile features to solve real-world problems[cite: 7].
+- [cite_start]Developing clean, maintainable codebases for impactful software products[cite: 5, 8].
 
 ---
 
@@ -43,4 +45,4 @@ I am a Software Engineer who loves building efficient digital solutions. With a 
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ga2513092@gmail.com)
 
 ---
-*"Transforming complex logic into simple, automated, and beautiful experiences."*
+[cite_start]*"Transforming complex logic into simple, automated, and impactful experiences[cite: 7, 8]."*
