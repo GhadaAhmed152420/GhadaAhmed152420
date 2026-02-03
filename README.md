@@ -15,11 +15,11 @@ I am a Software Engineer who loves building efficient digital solutions. With a 
 
 ## 💼 Professional Experience
 * **FlutterFlow Intern – Gensystem**
-  Designed and implemented responsive mobile interfaces using FlutterFlow, integrated with Firebase and Supabase for seamless functionality.
+* Designed and implemented responsive mobile interfaces using FlutterFlow, integrated with Firebase and Supabase for seamless functionality.
 * **Flutter Intern – Career**
-  Contributed to developing a marketplace application using Flutter, GetX, and Firebase, focusing on state management and performance.
+* Contributed to developing a marketplace application using Flutter, GetX, and Firebase, with a focus on state management and performance.
 * **Programming Instructor – BareeQ Academy**
-  Simplified complex coding concepts for children, fostering the next generation of tech talent through hands-on projects.
+* Simplified complex coding concepts for children, fostering the next generation of tech talent through hands-on projects.
 
 ---
 
