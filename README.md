@@ -14,17 +14,18 @@ I am a Software Engineer who loves building efficient digital solutions. With a 
 ---
 
 ## 💼 Professional Experience
-
-### 📱 Mobile Development & Training
-* **FlutterFlow Intern – Gensystem** Designed and implemented responsive mobile interfaces using FlutterFlow, integrated with Firebase and Supabase for seamless functionality.
-* **Flutter Intern – Career** Contributed to developing a marketplace application using Flutter, GetX, and Firebase, focusing on state management and performance.
-* **Programming Instructor – BareeQ Academy** Simplified complex coding concepts for children, fostering the next generation of tech talent through hands-on projects.
+* **FlutterFlow Intern – Gensystem**
+* Designed and implemented responsive mobile interfaces using FlutterFlow, integrated with Firebase and Supabase for seamless functionality.
+* **Flutter Intern – Career**
+* Contributed to developing a marketplace application using Flutter, GetX, and Firebase, focusing on state management and performance.
+* **Programming Instructor – BareeQ Academy**
+* Simplified complex coding concepts for children, fostering the next generation of tech talent through hands-on projects.
 
 ---
 
 ## 🚀 Featured Projects
 - **7yah App:** AI-powered Lung Cancer detection app (Graduation Project - Grade: A+).
-- **Élan Hotel:** A smart booking system built with FlutterFlow and automated via n8n.
+- **Élan Hotel:** A smart hotel room services app built with FlutterFlow and automated via n8n.
 - **Career App:** A robust marketplace solution using Flutter and GetX.
 
 ---
