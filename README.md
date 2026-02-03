@@ -1,4 +1,12 @@
 # ⚡ Ghada Ahmed | Software Engineer 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-%23FF6D5B.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=GhadaAhmed152420&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Views" />
+</p>
+
 ### Mobile Developer & Automation Enthusiast
 I am a Software Engineer dedicated to building efficient digital solutions. With a strong foundation in Computer Science and expertise in **Mobile Development**, I am currently bridging the gap between apps and efficiency through **Workflow Automation (n8n)**.
 
@@ -9,10 +17,10 @@ I am a Software Engineer dedicated to building efficient digital solutions. With
 | Category | Skills & Technologies |
 | :--- | :--- |
 | **Mobile Dev** | `Flutter` • `Dart` • `FlutterFlow` • `Bloc` • `GetX` |
-| **Backend & DB** | `Firebase` • `Supabase` • `SQL` • `RESTful APIs` |
+| **Backend & DB** | `Firebase` • `Supabase` • `MongoDB` • `SQL` • `RESTful APIs` |
 | **Automation** | `n8n` • `Workflow Integration` • `AI Automation` |
 | **Engineering** | `Clean Architecture` • `OOP` • `Git` • `Problem Solving (ICPC)` |
-| **Languages** | `Java` • `C++` • `Python` |
+| **Languages** | `Java` • `C++` • `Python` • `Flask` |
 
 ---
 
@@ -29,20 +37,23 @@ I am a Software Engineer dedicated to building efficient digital solutions. With
 
 ## 🏆 Featured Projects
 
-* **7yah App** | `AI` • `Healthcare`
+* 🧬 **7yah App** | `Flutter` • `Flask` • `AI`
     * AI-powered Lung Cancer detection system (Graduation Project - **Grade: A+**).
-* **Élan Hotel** | `FlutterFlow` • `n8n`
+* 🏨 **Élan Hotel** | `FlutterFlow` • `n8n` • `MongoDB`
     * Smart hotel services app integrated with automated backend workflows.
-* **Career App** | `Flutter` • `GetX`
+* 💼 **Career App** | `Flutter` • `GetX` • `Firebase`
     * A robust marketplace solution focusing on scalability and user experience.
 
 ---
 
-## 📊 GitHub Performance
+## 📈 Activity & Achievements
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=radical&hide_border=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=GhadaAhmed152420&theme=radical&no-frame=true&margin-w=15" alt="Ghada Trophies" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GhadaAhmed152420&theme=github-compact&hide_border=true" />
 </p>
 
 ---
