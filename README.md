@@ -1,5 +1,5 @@
 # ⚡ Ghada Ahmed | Software Engineer 
-###Mobile Developer & Automation Enthusiast
+### Mobile Developer & Automation Enthusiast
 I am a Software Engineer dedicated to building efficient digital solutions. With a strong foundation in Computer Science and expertise in **Mobile Development**, I am currently bridging the gap between apps and efficiency through **Workflow Automation (n8n)**.
 
 ---
