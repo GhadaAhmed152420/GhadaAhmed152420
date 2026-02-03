@@ -21,21 +21,21 @@ A Software Engineer focused on building efficient digital solutions. Specialized
 
 ### Professional Experience
 
-### **Mobile Application Developer** | **Gensystem**
+#### **Mobile Application Developer** | **Gensystem**
 * Developed high-fidelity mobile applications using **FlutterFlow**.
 * Integrated **Firebase** and **Supabase** for real-time data synchronization and backend management.
 * Designed responsive and user-centric mobile interfaces (UI/UX).
 
 ---
 
-### **Flutter Developer** | **Career**
+#### **Flutter Developer** | **Career**
 * Built and optimized cross-platform applications using the **Flutter** framework.
 * Implemented efficient **State Management** solutions and improved UI performance.
 * Managed backend services and authentication using **Firebase**.
 
 ---
 
-### **Programming Instructor** | **BareeQ Academy**
+#### **Programming Instructor** | **BareeQ Academy**
 * Educated children on programming fundamentals and logic.
 * Acted as an Instructor for the **Digital Egypt Cubs Initiative (DECI)**, delivering coding curricula to young students.
 * Simplified complex technical concepts to foster creative problem-solving skills in learners.
