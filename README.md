@@ -1,5 +1,5 @@
 # ⚡ Ghada Ahmed | Software Engineer 
-### Mobile Developer & Automation Enthusiast
+###Mobile Developer & Automation Enthusiast
 I am a Software Engineer dedicated to building efficient digital solutions. With a strong foundation in Computer Science and expertise in **Mobile Development**, I am currently bridging the gap between apps and efficiency through **Workflow Automation (n8n)**.
 
 ---
@@ -38,19 +38,27 @@ I am a Software Engineer dedicated to building efficient digital solutions. With
 
 ---
 
-## 📊 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=radical" alt="Ghada Stats" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=radical" alt="Top Langs" height="150" />
+## 📊 GitHub Performance
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=GhadaAhmed152420&show_icons=true&theme=radical&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GhadaAhmed152420&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ghada-ahmed-81b340195" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ghada Ahmed" height="30" width="40" /></a>
-<a href="mailto:ga2513092@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="ga2513092" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/ghada-ahmed-81b340195" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ga2513092@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/GhadaAhmed152420">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
