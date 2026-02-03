@@ -1,5 +1,5 @@
 # Ghada Ahmed
-**Software Engineer | Mobile Developer & Automation Enthusiast**
+**Software Engineer | Mobile Developer | AI Automation Specialist**
 
 ---
 
