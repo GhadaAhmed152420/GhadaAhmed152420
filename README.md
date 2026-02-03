@@ -21,14 +21,24 @@ A Software Engineer focused on building efficient digital solutions. Specialized
 
 ### Professional Experience
 
-**FlutterFlow Intern** | Gensystem  
-* Designed mobile interfaces and integrated Firebase/Supabase for real-time data flow.
+### **Mobile Application Developer** | **Gensystem**
+* Developed high-fidelity mobile applications using **FlutterFlow**.
+* Integrated **Firebase** and **Supabase** for real-time data synchronization and backend management.
+* Designed responsive and user-centric mobile interfaces (UI/UX).
 
-**Flutter Intern** | Career  
-* Optimized UI performance and state management using GetX and Firebase.
+---
 
-**Programming Instructor** | BareeQ Academy  
-* Mentored young learners in coding through the Digital Cubs Initiative.
+### **Flutter Developer** | **Career**
+* Built and optimized cross-platform applications using the **Flutter** framework.
+* Implemented efficient **State Management** solutions and improved UI performance.
+* Managed backend services and authentication using **Firebase**.
+
+---
+
+### **Programming Instructor** | **BareeQ Academy**
+* Educated children on programming fundamentals and logic.
+* Acted as an Instructor for the **Digital Egypt Cubs Initiative (DECI)**, delivering coding curricula to young students.
+* Simplified complex technical concepts to foster creative problem-solving skills in learners.
 
 ---
 
