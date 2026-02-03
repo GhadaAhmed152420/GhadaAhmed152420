@@ -1,12 +1,5 @@
 # ⚡ Ghada Ahmed | Software Engineer 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-%23FF6D5B.svg?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
-</p>
-
-### 🚀 Passionate Mobile Developer & Automation Enthusiast
+### Mobile Developer & Automation Enthusiast
 I am a Software Engineer dedicated to building efficient digital solutions. With a strong foundation in Computer Science and expertise in **Mobile Development**, I am currently bridging the gap between apps and efficiency through **Workflow Automation (n8n)**.
 
 ---
