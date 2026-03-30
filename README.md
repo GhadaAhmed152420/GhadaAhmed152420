@@ -1,7 +1,4 @@
 # Ghada Ahmed
-**Software Engineer | Mobile Developer**
-
----
 
 ### Summary
 A Software Engineer focused on building efficient digital solutions. Specialized in **Mobile Development** (Flutter) and **Workflow Automation** (n8n) to bridge the gap between user experience and operational efficiency.
