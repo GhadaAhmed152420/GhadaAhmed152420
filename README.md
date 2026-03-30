@@ -3,12 +3,12 @@
 
 ---
 
-### 📝 Summary
+### Summary
 A **Software Engineer** focused on building efficient digital solutions. Specialized in **Mobile Development (Flutter)** and **Workflow Automation (n8n)** to bridge the gap between user experience and operational efficiency. I leverage engineering principles to write clean, maintainable code and solve real-world problems.
 
 ---
 
-### 🛠 Technical Toolkit
+### Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
@@ -19,7 +19,7 @@ A **Software Engineer** focused on building efficient digital solutions. Special
 
 ---
 
-### 💼 Professional Experience
+### Professional Experience
 
 #### **Mobile Application Developer** | **Gensystem**
 * Developed high-fidelity mobile applications using **FlutterFlow**.
@@ -38,7 +38,7 @@ A **Software Engineer** focused on building efficient digital solutions. Special
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 * **7yah App** | *Flutter, Flask, AI*
     * AI-powered Lung Cancer detection system (Graduation Project - Grade: **A+**).
@@ -49,7 +49,7 @@ A **Software Engineer** focused on building efficient digital solutions. Special
 
 ---
 
-### 🔗 Contact & Profiles
+### Contact & Profiles
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ghada-ahmed-81b340195" target="_blank">
