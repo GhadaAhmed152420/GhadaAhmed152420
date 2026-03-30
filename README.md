@@ -1,55 +1,5 @@
 # Ghada Ahmed
-
-### Summary
-A Software Engineer focused on building efficient digital solutions. Specialized in **Mobile Development** (Flutter) and **Workflow Automation** (n8n) to bridge the gap between user experience and operational efficiency.
-
----
-
-### Technical Toolkit
-
-| Category | Technologies |
-| :--- | :--- |
-| **Mobile Development** | Flutter, Dart, FlutterFlow, Bloc, GetX |
-| **Automation** | n8n, Workflow Integration, AI Automation, Python |
-| **Backend & Databases** | Firebase, Supabase, MongoDB, SQL, RESTful APIs |
-| **Software Engineering** | Clean Architecture, OOP, Git, Problem Solving (ICPC) |
-
----
-
-### Professional Experience
-
-#### **Mobile Application Developer** | **Gensystem**
-* Developed high-fidelity mobile applications using **FlutterFlow**.
-* Integrated **Firebase** and **Supabase** for real-time data synchronization and backend management.
-* Designed responsive and user-centric mobile interfaces (UI/UX).
-
----
-
-#### **Flutter Developer** | **Career**
-* Built and optimized cross-platform applications using the **Flutter** framework.
-* Implemented efficient **State Management** solutions and improved UI performance.
-* Managed backend services and authentication using **Firebase**.
-
----
-
-#### **Programming Instructor** | **BareeQ Academy**
-* Educated children on programming fundamentals and logic.
-* Acted as an Instructor for the **Digital Egypt Cubs Initiative (DECI)**, delivering coding curricula to young students.
-* Simplified complex technical concepts to foster creative problem-solving skills in learners.
-
----
-
-### Featured Projects
-
-**7yah App** | *Flutter, Flask, AI* * AI-powered Lung Cancer detection system (Graduation Project - Grade: A+).
-
-**Élan Hotel** | *FlutterFlow, n8n, MongoDB* * Smart hotel services app integrated with automated backend workflows.
-
-**Career App** | *Flutter, GetX, Firebase* * A robust marketplace solution focusing on scalability and user experience.
-
----
-
-### Contact & Profiles
+## Software Engineer
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ghada-ahmed-81b340195" target="_blank">
@@ -63,7 +13,55 @@ A Software Engineer focused on building efficient digital solutions. Specialized
   </a>
 </p>
 
+### Summary
+Dedicated **Software Engineer** with a passion for building logic-driven digital solutions. I leverage my expertise in **Mobile Development (Flutter)** and **Workflow Automation (n8n)** to bridge the gap between seamless user experiences and operational efficiency. I focus on writing clean, maintainable code and solving complex technical challenges with an engineering mindset.
+
 ---
+
+### 🛠 Technical Toolkit
+
+| Category | Technologies |
+| :--- | :--- |
+| **Engineering Foundations** | OOP, Data Structures, Algorithms, Clean Architecture, Solid Principles |
+| **Mobile Development** | Flutter, Dart, FlutterFlow, State Management (Bloc, GetX), UI/UX Design |
+| **Automation & Logic** | n8n, Workflow Integration, API Design, AI Automation, Python |
+| **Backend & Databases** | Firebase, Supabase, MongoDB, SQL, RESTful APIs |
+| **Tools & Version Control** | Git, GitHub, VS Code, Postman |
+
+---
+
+### 💼 Professional Experience
+
+#### **Mobile Application Developer** | **Gensystem**
+* Architected and developed high-fidelity mobile applications using **FlutterFlow**.
+* Engineered robust backends using **Firebase** and **Supabase** for real-time data synchronization.
+* Focused on building responsive, user-centric interfaces with a deep understanding of mobile logic.
+
+#### **Flutter Developer** | **Career**
+* Optimized cross-platform applications using the **Flutter** framework, ensuring high performance across devices.
+* Implemented scalable **State Management** solutions to handle complex application flows.
+* Managed cloud services and secure authentication workflows via **Firebase**.
+
+#### **Programming Instructor** | **BareeQ Academy & DECI**
+* Educated young learners on programming fundamentals, logic, and creative problem-solving.
+* Instructor for the **Digital Egypt Cubs Initiative (DECI)**, simplifying complex software concepts for students.
+* Enhanced communication skills by translating technical logic into easy-to-understand educational content.
+
+---
+
+### 🚀 Featured Projects
+
+* **7yah App** | *Flutter, Flask, AI*
+    * An AI-powered Lung Cancer detection system (Graduation Project - Grade: **A+**).
+* **Élan Hotel** | *FlutterFlow, n8n, MongoDB*
+    * A smart hotel services platform integrating mobile interfaces with automated backend workflows.
+* **Career App** | *Flutter, GetX, Firebase*
+    * A scalable marketplace solution built with a focus on performance and clean architecture.
+
+---
+
 <p align="center">
-  <i>"Writing clean, maintainable code that solves real-world problems."</i>
+  <i>"I don't just write code; I engineer solutions that solve real-world problems."</i>
+  <br>
+  <b>Let's build something efficient together!</b>
 </p>
