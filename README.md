@@ -44,11 +44,11 @@ A Software Engineer focused on building efficient digital solutions. Specialized
 
 ### Featured Projects
 
-**7yah App** | *Flutter, Flask, AI* * AI-powered Lung Cancer detection system (Graduation Project - Grade: A+).
+**7yah App** | *Flutter, Flask, AI*  * AI-powered Lung Cancer detection system (Graduation Project - Grade: A+).
 
-**Élan Hotel** | *FlutterFlow, n8n, MongoDB* * Smart hotel services app integrated with automated backend workflows.
+**Élan Hotel** | *FlutterFlow, n8n, MongoDB*  * Smart hotel services app integrated with automated backend workflows.
 
-**Career App** | *Flutter, GetX, Firebase* * A robust marketplace solution focusing on scalability and user experience.
+**Career App** | *Flutter, GetX, Firebase*  * A robust marketplace solution focusing on scalability and user experience.
 
 ---
 
