@@ -72,7 +72,3 @@ A Software Engineer focused on building efficient digital solutions. Specialized
   </a>
 </p>
 
----
-<p align="center">
-  <i>"Writing clean, maintainable code that solves real-world problems."</i>
-</p>
