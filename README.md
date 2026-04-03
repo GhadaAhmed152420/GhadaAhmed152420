@@ -1,30 +1,33 @@
 # Ghada Ahmed
-**Software Engineer | Mobile Developer**
+**Software Engineer**
 
 ---
 
-### Summary
-A **Software Engineer** focused on building efficient digital solutions. Specialized in **Mobile Development (Flutter)** and **Workflow Automation (n8n)** to bridge the gap between user experience and operational efficiency. I leverage engineering principles to write clean, maintainable code and solve real-world problems.
+### 🚀 Summary
+A **Software Engineer** with a foundation in **Native Android** and **Flutter**, specializing in building efficient digital products. My journey evolved from writing complex code to leveraging Low-Code tools like **FlutterFlow** and **n8n** to accelerate development. 
+
+Today, I’m bridging the gap between Engineering and **UI/UX Design** ensuring every product is not just technically sound, but also intuitive, functional, and user-centered.
 
 ---
 
-### Technical Toolkit
+### 🛠 Technical Toolkit
 
 | Category | Technologies |
 | :--- | :--- |
-| **Mobile Development** | Flutter, Dart, FlutterFlow, Bloc, GetX |
-| **Automation** | n8n, Workflow Integration, AI Automation, Python |
-| **Backend & Databases** | Firebase, Supabase, MongoDB, SQL, RESTful APIs |
-| **Software Engineering** | Clean Architecture, OOP, Git, Problem Solving (LeetCode/ICPC) |
+| **Mobile Development** | Flutter, Dart, Android Native, FlutterFlow |
+| **Automation & Low-Code** | n8n, Workflow Automation, AI Integration |
+| **Design (In Progress)** | UI/UX Principles, User-Centered Design, Figma |
+| **Backend & Databases** | Firebase, Supabase, MongoDB, RESTful APIs |
+| **Engineering Core** | Clean Architecture, OOP, Git, Problem Solving (LeetCode/ICPC) |
 
 ---
 
-### Professional Experience
+### 💼 Professional Experience
 
 #### **Mobile Application Developer** | **Gensystem**
 * Developed high-fidelity mobile applications using **FlutterFlow**.
 * Integrated **Firebase** and **Supabase** for real-time data synchronization.
-* Designed responsive and user-centric mobile interfaces (UI/UX).
+* Focused on delivering responsive and user-centric interfaces.
 
 #### **Flutter Developer** | **Career**
 * Built and optimized cross-platform applications using the **Flutter** framework.
@@ -38,7 +41,7 @@ A **Software Engineer** focused on building efficient digital solutions. Special
 
 ---
 
-### Featured Projects
+### 🌟 Featured Projects
 
 * **7yah App** | *Flutter, Flask, AI*
     * AI-powered Lung Cancer detection system (Graduation Project - Grade: **A+**).
@@ -49,7 +52,7 @@ A **Software Engineer** focused on building efficient digital solutions. Special
 
 ---
 
-### Contact & Profiles
+### 📧 Contact & Profiles
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ghada-ahmed-81b340195" target="_blank">
@@ -71,5 +74,5 @@ A **Software Engineer** focused on building efficient digital solutions. Special
 
 ---
 <p align="center">
-  <i>"Writing clean, maintainable code that solves real-world problems."</i>
+  <i>"Bridging the gap between engineering logic and user-centered design."</i>
 </p>
