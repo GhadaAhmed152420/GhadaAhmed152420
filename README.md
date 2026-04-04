@@ -6,7 +6,7 @@
 ### Summary
 A **Software Engineer** with a solid foundation in **Native Android** and **Flutter**, specialized in building high-performance digital products. My technical expertise spans from deep-dive coding to high-efficiency development using **FlutterFlow** and **n8n**.
 
-I leverage engineering principles to write clean, maintainable code and build scalable mobile applications that solve real-world problems. Currently, I am bridging the gap between Engineering Logic and **Product Design** to create human-centered digital experiences.
+I leverage engineering principles to write clean, maintainable code and build scalable mobile applications that solve real-world problems.
 
 ---
 
