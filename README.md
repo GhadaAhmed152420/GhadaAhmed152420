@@ -1,5 +1,5 @@
 # Ghada Ahmed
-**Software Engineer | Mobile Developer**
+**Software Engineer | Flutter Developer**
 
 ---
 
@@ -24,7 +24,7 @@ I leverage engineering principles to write clean, maintainable code and build sc
 
 ### Professional Experience
 
-#### **Mobile Application Developer** | **Gensystem**
+#### **FlutterFlow Developer** | **Gensystem**
 * Spearheaded the development of high-fidelity apps using **FlutterFlow**.
 * Architected real-time data solutions using **Firebase** and **Supabase**.
 * Focused on delivering responsive and user-centric mobile interfaces.
