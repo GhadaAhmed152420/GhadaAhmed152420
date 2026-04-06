@@ -1,5 +1,5 @@
 # Ghada Ahmed
-**Software Engineer | Flutter Developer**
+**Software Engineer | Mobile Developer**
 
 ---
 
