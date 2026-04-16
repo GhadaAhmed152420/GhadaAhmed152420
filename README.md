@@ -1,5 +1,5 @@
 # Ghada Ahmed
-**Software Engineer | Mobile Developer**
+**Software Engineer | Mobile Application Developer**
 
 ---
 
