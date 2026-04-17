@@ -1,7 +1,4 @@
 # Ghada Ahmed
-**Software Engineer | Mobile Developer**
-
----
 
 ### Summary
 A **Software Engineer** with a solid foundation in **Native Android** and **Flutter**, specialized in building high-performance digital products. My technical expertise spans from deep-dive coding to high-efficiency development using **FlutterFlow** and **n8n**.
