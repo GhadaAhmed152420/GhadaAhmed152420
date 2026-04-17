@@ -24,12 +24,12 @@ I leverage engineering principles to write clean, maintainable code and build sc
 
 ### Professional Experience
 
-#### **FlutterFlow Developer** | **Gensystem**
+#### **FlutterFlow Developer Trainee** | **Gensystem**
 * Spearheaded the development of high-fidelity apps using **FlutterFlow**.
 * Architected real-time data solutions using **Firebase** and **Supabase**.
 * Focused on delivering responsive and user-centric mobile interfaces.
 
-#### **Flutter Developer** | **Career**
+#### **Flutter Developer Trainee** | **Career**
 * Built and optimized cross-platform applications with a focus on performance.
 * Implemented advanced **State Management** (GetX/Bloc) for seamless user experiences.
 
