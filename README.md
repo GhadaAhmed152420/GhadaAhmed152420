@@ -1,9 +1,10 @@
 # Ghada Ahmed
 
 ### Summary
-A **Software Engineer** with a solid foundation in **Native Android** and **Flutter**, specialized in building high-performance digital products. My technical expertise spans from deep-dive coding to high-efficiency development using **FlutterFlow** and **n8n**.
 
-I leverage engineering principles to write clean, maintainable code and build scalable mobile applications that solve real-world problems.
+Software Engineer with a background in Flutter and Android development, currently expanding into Backend Development using C# and ASP.NET Core.
+
+Experienced in building mobile applications, integrating APIs, and working with Firebase, Supabase, and automation tools like n8n. Interested in software architecture, problem-solving, and scalable application development.
 
 ---
 
