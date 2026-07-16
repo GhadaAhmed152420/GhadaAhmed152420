@@ -1,12 +1,10 @@
 # Hi, I'm Ghada Ahmed 👋
 
-Software Engineer with hands-on experience through internships and academic projects. I enjoy solving problems, learning new technologies, and building practical software solutions.
-
-I'm interested in software engineering, backend development, system design, and writing clean, maintainable code. I continuously explore new technologies and enjoy turning ideas into real applications.
+Software Engineer with hands-on experience gained through internships and real-world projects. I enjoy learning new technologies, solving problems, and building practical software solutions. I'm always looking for opportunities to learn, grow, and contribute to meaningful projects.
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
 ### Languages
 - C#
@@ -15,17 +13,26 @@ I'm interested in software engineering, backend development, system design, and 
 - SQL
 
 ### Frameworks & Technologies
-- ASP.NET Core
 - Flutter
 - FlutterFlow
 - Firebase
 - Supabase
 - n8n
+- REST APIs
 
 ### Databases
 - SQL Server
 - MongoDB
 - Firebase Firestore
+
+### Core Concepts
+- OOP
+- Data Structures
+- Algorithms
+- Problem Solving
+- MVC
+- MVVM
+- Clean Architecture
 
 ### Tools
 - Git
@@ -34,21 +41,41 @@ I'm interested in software engineering, backend development, system design, and 
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 7YAH
-AI-powered healthcare application for lung disease detection using Flutter, Flask, and REST APIs.
+### 🩺 7YAH
+**Flutter • Flask • REST APIs • AI**
 
-### Élan Hotel
-Hotel guest service application built with FlutterFlow and automated backend workflows using n8n.
-
-### Career
-Service marketplace application with Firebase Authentication, Firestore, GetX, and REST APIs.
+AI-powered healthcare application for lung disease detection using X-ray images. Developed the Flutter mobile application, integrated REST APIs with the Flask backend, and implemented authentication and image upload features.
 
 ---
 
-## Connect with Me
+### 🏨 Élan Hotel
+**FlutterFlow • n8n • MongoDB**
 
-- LinkedIn
-- LeetCode
-- Email
+Hotel guest service application that enables guests to request hotel services through a mobile app. Developed the application interfaces using FlutterFlow and implemented backend workflows using n8n with MongoDB integration.
+
+---
+
+### 🔧 Career
+**Flutter • GetX • Firebase • REST APIs**
+
+Service marketplace application connecting users with service providers. Developed application interfaces, implemented state management using GetX, integrated Firebase services, and consumed REST APIs.
+
+---
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ghada-ahmed-81b340195" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://leetcode.com/u/Ghada_A/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <a href="mailto:ga2513092@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
