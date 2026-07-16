@@ -6,37 +6,7 @@ Software Engineer with hands-on experience gained through internships and real-w
 
 ## 🛠 Tech Stack
 
-### Languages
-- C#
-- Java
-- Dart
-- SQL
-
-### Frameworks & Technologies
-- Flutter
-- FlutterFlow
-- Firebase
-- Supabase
-- n8n
-- REST APIs
-
-### Databases
-- SQL Server
-- MongoDB
-- Firebase Firestore
-
-### Core Concepts
-- OOP
-- Data Structures
-- Algorithms
-- Problem Solving
-- MVC
-- MVVM
-- Clean Architecture
-
-### Tools
-- Git
-- GitHub
+C# • Java • Dart • SQL • Flutter • FlutterFlow • Firebase • Supabase • MongoDB • SQL Server • REST APIs • Git • GitHub • Postman • n8n
 - Postman
 
 ---
