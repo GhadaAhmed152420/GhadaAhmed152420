@@ -6,7 +6,20 @@
 
 ## 🛠 Tech Stack
 
-C# • Dart • Java • SQL • Flutter • FlutterFlow • Firebase • Supabase • MongoDB • SQL Server • REST APIs • Git • GitHub • Postman • n8n
+### 💻 Languages
+C# • Java • Dart
+
+### ⚙️ Backend
+REST APIs • Firebase • Supabase • n8n
+
+### 🗄️ Databases
+SQL Server • MongoDB
+
+### 🛠️ Tools
+Git • GitHub • Postman
+
+### 📱 Mobile
+Flutter • FlutterFlow
 
 ---
 
