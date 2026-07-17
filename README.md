@@ -1,6 +1,6 @@
 # Hi, I'm Ghada Ahmed 👋
 
-Software Engineer with hands-on experience gained through internships and real-world projects. I enjoy learning new technologies, solving problems, and building practical software solutions. I'm always looking for opportunities to learn, grow, and contribute to meaningful projects.
+**Software Engineer** with hands-on experience gained through internships and real-world projects. Passionate about backend development, problem-solving, and building practical software solutions. Always eager to learn, grow, and contribute to meaningful projects.
 
 ---
 
@@ -13,7 +13,7 @@ C# • Dart • Java • SQL • Flutter • FlutterFlow • Firebase • Supaba
 ## 🚀 Featured Projects
 
 ### 🩺 7YAH
-**Flutter • Flask • REST APIs • AI**
+**Flutter • Flask • AI**
 
 AI-powered healthcare application for lung disease detection using X-ray images. Developed the Flutter mobile application, integrated REST APIs with the Flask backend, and implemented authentication and image upload features.
 
@@ -22,12 +22,12 @@ AI-powered healthcare application for lung disease detection using X-ray images.
 ### 🏨 Élan Hotel
 **FlutterFlow • n8n • MongoDB**
 
-Hotel guest service application that enables guests to request hotel services through a mobile app. Developed the application interfaces using FlutterFlow and implemented backend workflows using n8n with MongoDB integration.
+Hotel guest service application enabling guests to request hotel services via a mobile app. Developed the application interfaces using FlutterFlow and implemented backend workflows using n8n with MongoDB integration.
 
 ---
 
 ### 🔧 Career
-**Flutter • GetX • Firebase • REST APIs**
+**Flutter • GetX • Firebase**
 
 Service marketplace application connecting users with service providers. Developed application interfaces, implemented state management using GetX, integrated Firebase services, and consumed REST APIs.
 
