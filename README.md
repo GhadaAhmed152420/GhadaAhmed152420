@@ -7,18 +7,23 @@
 ## 🛠 Tech Stack
 
 **💻 Languages**
+
 C# • Java • Dart
 
 **⚙️ Backend & Technologies**
+
 REST APIs • Firebase • Supabase • n8n
 
 **🗄️ Databases**
+
 SQL Server • MongoDB
 
 **🛠️ Tools**
+
 Git • GitHub • Postman
 
 **📱 Mobile**
+
 Flutter • FlutterFlow
 
 ---
