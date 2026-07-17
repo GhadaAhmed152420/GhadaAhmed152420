@@ -6,19 +6,19 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
+**💻 Languages**
 C# • Java • Dart
 
-### ⚙️ Backend
+**⚙️ Backend & Technologies**
 REST APIs • Firebase • Supabase • n8n
 
-### 🗄️ Databases
+**🗄️ Databases**
 SQL Server • MongoDB
 
-### 🛠️ Tools
+**🛠️ Tools**
 Git • GitHub • Postman
 
-### 📱 Mobile
+**📱 Mobile**
 Flutter • FlutterFlow
 
 ---
@@ -26,7 +26,7 @@ Flutter • FlutterFlow
 ## 🚀 Featured Projects
 
 ### 🩺 7YAH
-**Flutter • Flask • AI**
+**Flutter • REST APIs • AI**
 
 AI-powered healthcare application for lung disease detection using X-ray images. Developed the Flutter mobile application, integrated REST APIs with the Flask backend, and implemented authentication and image upload features.
 
