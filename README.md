@@ -6,26 +6,37 @@
 
 ## 🛠 Tech Stack
 
-**💻 Languages**
+### Programming Languages
+- C#
+- Java
+- Dart
 
-C# • Java • Dart
+### Backend
+- REST APIs
+- Firebase
+- Supabase
+- n8n
 
-**⚙️ Backend & Technologies**
+### Databases
+- SQL Server
+- MongoDB
 
-REST APIs • Firebase • Supabase • n8n
+### Software Engineering
+- OOP
+- Data Structures
+- Algorithms
+- Clean Architecture
+- MVC
 
-**🗄️ Databases**
+### Tools
+- Git
+- GitHub
+- Postman
 
-SQL Server • MongoDB
-
-**🛠️ Tools**
-
-Git • GitHub • Postman
-
-**📱 Mobile**
-
-Flutter • FlutterFlow
-
+### Mobile
+- Flutter
+- FlutterFlow
+  
 ---
 
 ## 🚀 Featured Projects
