@@ -44,7 +44,7 @@ Service marketplace application connecting users with service providers. Develop
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
-  <a href="mailto:ga2513092@gmail.com">
+  <a href="mailto:ghadahmed.lawati@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
